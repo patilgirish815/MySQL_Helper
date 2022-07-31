@@ -1,0 +1,153 @@
+/* For Scrollable Table in DataBase Modal */
+
+.table-responsive {
+    max-height: 150px;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/* For Menu 1005 Height */
+
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+#menu .nav-link {
+    color: lightgray !important;
+}
+
+
+/* For Menu Olive green Color */
+
+#menu {
+    font-family: 'Comfortaa';
+}
+
+.red .active a,
+.red a:hover {
+    background-color: rgb(12, 92, 63) !important;
+}
+
+#menu .nav-link.active {
+    background-color: rgb(18, 117, 79) !important;
+}
+
+
+/* Configuration Tabs */
+
+#configTab .nav-link.active {
+    background-color: rgb(10, 100, 64) !important;
+}
+
+
+/* Headings Font */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Comfortaa';
+    font-weight: bold;
+}
+
+
+/* Make Menu Content Scrollable  */
+
+#menuContent {
+    height: 100%;
+    position: relative;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    overflow-y: scroll;
+}
+
+
+/* Start Overview Screen */
+
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fagreen {
+    color: rgb(94, 209, 94);
+}
+
+.fared {
+    color: rgb(219, 16, 16);
+}
+
+.labelsize {
+    font-size: 12px;
+}
+
+
+/* End Overview Screen */
+
+
+/* Start Transmission Screen */
+
+.fa-info-circle {
+    padding-right: 10px;
+}
+
+#transmissionlabel {
+    font-family: 'Comfortaa';
+    font-size: 15px;
+}
+
+
+/* End of Transmission Screen */
+
+
+/* Start Data Search */
+
+/* #colTransmissionid {
+    padding-left: 0px;
+}
+
+#colVisitNumber {
+    padding-left: 0px;
+}
+
+#colLabelVisitNumber {
+    padding-right: 0px;
+}
+
+#colVisitDatetime {
+    padding-left: 0px;
+} */
+
+/* for all table footer */
+tfoot {
+    display: table-header-group;
+  }
+  
+.pointer {
+    cursor: pointer;
+}
+
+.green-color {
+    color:green;
+    }
+.red-color {
+    color:red;
+}
+/* .tooltip-inner {
+    
+    background-color: #fff;
+    text-align: center;
+    color: #000;   
+} */
+
+ 
