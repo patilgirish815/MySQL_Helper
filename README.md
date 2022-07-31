@@ -21,8 +21,8 @@ https://youtu.be/VnykJY2KCxw
 
 ## Application Screenshots
 
-### Image 1
+### Connections
 ![](images/img1.png)
 
-### Image 2
+### Table Definitions
 ![](images/img2.png)
